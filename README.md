@@ -1,8 +1,7 @@
 # ProjetosExternosInfo
 
-Atualmente estou colaborando em 2 projetos, nos quais atuo como front-end.
+**Atualmente estou colaborando em 2 projetos, nos quais atuo como front-end:**
 
-**Projetos Externos**
   - “A revolução do turismo Anapolino no meio digital” - ``Em andamento``
   
 É um projeto no qual eu e alguns amigos fomos selecionados para a produção de uma aplicação capaz de impactar positivamente na cidade em que vivemos.
